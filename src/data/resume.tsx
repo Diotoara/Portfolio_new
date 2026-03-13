@@ -116,7 +116,7 @@ export const DATA = {
   projects: [
     {
       title: "Link-o-Matic",
-      href: "https://chatcollect.com",
+      href: "https://github.com/Diotoara/shortsGenerator",
       dates: "Jan 2024 - Feb 2024",
       active: true,
       description:
@@ -133,18 +133,17 @@ export const DATA = {
       ],
       links: [
         {
-          type: "Website",
-          href: "https://chatcollect.com",
-          icon: <Icons.globe className="size-3" />,
+          type: "Source",
+          href: "https://github.com/Diotoara/shortsGenerator",
+          icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
-      video:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
+      image: "./linkomatic.png",
+      // video:"https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
     },
     {
-      title: "Magic UI",
-      href: "https://magicui.design",
+      title: "Chat App",
+      href: "https://chat-app-nine-olive-31.vercel.app/",
       dates: "June 2023 - Present",
       active: true,
       description:
@@ -162,21 +161,21 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://magicui.design",
+          href: "https://chat-app-nine-olive-31.vercel.app/",
           icon: <Icons.globe className="size-3" />,
         },
         {
           type: "Source",
-          href: "https://github.com/magicuidesign/magicui",
+          href: "https://github.com/Diotoara/chatApp",
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
-      video: "https://cdn.magicui.design/bento-grid.mp4",
+      image: "./chatapp.png",
+      video: "chatapp.mp4"
     },
     {
-      title: "llm.report",
-      href: "https://llm.report",
+      title: "Debate AI",
+      href: "https://de-bait-ai.vercel.app/",
       dates: "April 2023 - September 2023",
       active: true,
       description:
@@ -195,21 +194,21 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://llm.report",
+          href: "https://de-bait-ai.vercel.app/",
           icon: <Icons.globe className="size-3" />,
         },
         {
           type: "Source",
-          href: "https://github.com/dillionverma/llm.report",
+          href: "https://github.com/Diotoara/deBAIT",
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
-      video: "https://cdn.llm.report/openai-demo.mp4",
+      image: "debate.png",
+      video: "debait.mp4",
     },
     {
-      title: "Automatic Chat",
-      href: "https://automatic.chat",
+      title: "RushLess",
+      href: "https://v0-smart-traffic-signal-webpage.vercel.app/",
       dates: "April 2023 - March 2024",
       active: true,
       description:
@@ -228,13 +227,18 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://automatic.chat",
+          href: "https://v0-smart-traffic-signal-webpage.vercel.app/",
           icon: <Icons.globe className="size-3" />,
         },
+        {
+          type:"Source",
+          href: "https://github.com/Diotoara/PARKIFY",
+          icon: < Icons.github className="size-3" />
+        }
       ],
       image: "",
       video:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/automatic-chat.mp4",
+        "rushless.mp4",
     },
   ],
   hackathons: [
