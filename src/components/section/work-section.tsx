@@ -51,7 +51,7 @@ export default function WorkSection() {
                 <div className="flex-1 min-w-0 gap-0.5 flex flex-col">
                   <div className="font-semibold leading-none flex items-center gap-2">
                     {work.company}
-                    <div className="bg-gray-100 p-1 rounded-sm " >
+                    <div className="bg-primary/10 p-1 rounded-sm " >
                       {work.status}
                     </div>
                     <span className="relative inline-flex items-center w-3.5 h-3.5">
