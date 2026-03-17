@@ -1,47 +1,58 @@
-<div align="center">
-<img alt="Portfolio" src="https://github.com/dillionverma/portfolio/assets/16860528/57ffca81-3f0a-4425-b31d-094f61725455" width="90%">
-</div>
+# 🌑 Modern Portfolio
 
-# Portfolio [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdillionverma%2Fportfolio)
+A modern, minimalist portfolio built with **Next.js**, **TypeScript**, and **Tailwind CSS**. This project features a high-end, dark-mode aesthetic designed to showcase full-stack development work and creative projects.
 
-Built with next.js, [shadcn/ui](https://ui.shadcn.com/), and [magic ui](https://magicui.design/), deployed on Vercel.
+---
 
-# Features
+## 🚀 Getting Started
 
-- Setup only takes a few minutes by editing the [single config file](./src/data/resume.tsx)
-- Built using Next.js 14, React, Typescript, Shadcn/UI, TailwindCSS, Framer Motion, Magic UI
-- Includes a blog
-- Responsive for different devices
-- Optimized for Next.js and Vercel
+To get a local copy up and running, follow these steps:
 
-# Getting Started Locally
+### 📦 Installation
 
-1. Clone this repository to your local machine:
+1. **Clone the repository**
 
-   ```bash
-   git clone https://github.com/dillionverma/portfolio
-   ```
+        git clone https://github.com/Diotoara/Portfolio_new.git
 
-2. Move to the cloned directory
+2. **Install dependencies**
 
-   ```bash
-   cd portfolio
-   ```
+        npm i
 
-3. Install dependencies:
+---
 
-   ```bash
-   pnpm install
-   ```
+### 🧪 Development
 
-4. Start the local Server:
+Run the development server:
 
-   ```bash
-   pnpm dev
-   ```
+    npm run dev
 
-5. Open the [Config file](./src/data/resume.tsx) and make changes
+Open http://localhost:3000 with your browser to see the result.
 
-# License
+---
 
-Licensed under the [MIT license](https://github.com/dillionverma/portfolio/blob/main/LICENSE.md).
+## 👤 About Me
+
+I am a **Full-Stack Developer**
+With two years of experience in freelancing and shipping functional products, I specialize in building scalable web applications with a focus on clean code and performance.
+
+- **Tech Stack:** Node.js, React, Next.js, TypeScript, PostgreSQL (Prisma), MongoDB  
+- **Design Philosophy:** I’m a fan of *dark mode*, minimalist aesthetics, and high-end UI design. I frequently use **Framer Motion** and **Tailwind CSS** to create fluid, modern interfaces.  
+- **Interests:** Beyond engineering, I am a film and rap enthusiast. I prefer practical, project-based learning and enjoy exploring systems engineering and cybersecurity.
+
+---
+
+## 🛠️ Built With
+
+- **Framework:** Next.js  
+- **Language:** TypeScript  
+- **Styling:** Tailwind CSS  
+- **Animations:** Framer Motion  
+- **Database:** PostgreSQL / MongoDB  
+
+---
+
+## 📜 Acknowledgments
+
+The design and components of this portfolio are inspired by:
+
+- **Magic UI Portfolio** — Special thanks for the incredible design patterns.

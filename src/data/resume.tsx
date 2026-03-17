@@ -37,7 +37,7 @@ export const DATA = {
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
-    { href: "/blog", icon: NotebookIcon, label: "Blog" },
+    // { href: "/blog", icon: NotebookIcon, label: "Blog" },
   ],
   contact: {
     email: "aryanjhaop@gmail.com",
@@ -64,10 +64,10 @@ export const DATA = {
 
         navbar: true,
       },
-      Youtube: {
+      "Cal.com": {
         name: "Youtube",
-        url: "https://dub.sh/dillion-youtube",
-        icon: Icons.youtube,
+        url: "https://cal.com/diotoara",
+        icon: Icons.calendar,
         navbar: true,
       },
       email: {
