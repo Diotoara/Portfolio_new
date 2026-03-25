@@ -7,15 +7,13 @@ import { Nodejs } from "@/components/ui/svgs/nodejs";
 import { Python } from "@/components/ui/svgs/python";
 import { Postgresql } from "@/components/ui/svgs/postgresql";
 import { Docker } from "@/components/ui/svgs/docker";
-import { Java } from "@/components/ui/svgs/java";
-import { Csharp } from "@/components/ui/svgs/csharp";
 import { CPlusPlus } from "@/components/ui/svgs/c++";
 import { MongoDB } from "@/components/ui/svgs/mongo";
 
 export const DATA = {
   name: "Aryan Jha",
   initials: "AJ",
-  url: "https://dillion.io",
+  url: "https://aryan05.vercel.app",
   location: "New Delhi, India",
   locationLink: "https://maps.app.goo.gl/4DzfHxa7U9CKKV2S8",
   description:
