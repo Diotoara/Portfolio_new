@@ -22,7 +22,6 @@ export const DATA = {
     "Full Stack Dev - building scalable, AI powered, user centric applications.",
   summary:
       "I'm a Full-Stack Web Developer specializing in Next.js with 8+ projects built, done&nbsp; [15+ hackathons participated, including multiple wins](https://www.linkedin.com/posts/aryan-jha-530719325_hackathon-techgrowth-levelingup-activity-7305830925672603649-wy3A). I focus on building scalable web applications while [consistently practicing DSA](https://leetcode.com/u/Aryan_kun/) and system design to become a strong software engineer.",
-    // "At the end of 2022, I quit my job as a software engineer to go fulltime into building and scaling my own SaaS businesses. In the past, [I pursued a double degree in computer science and business](/#education), [interned at big tech companies in Silicon Valley](https://www.youtube.com/watch?v=d-LJ2e5qKdE), and [competed in over 21 hackathons for fun](/#hackathons). I also had the pleasure of being a part of the first ever in-person cohort of buildspace called [buildspace sf1](https://buildspace.so/sf1).",
   avatarUrl: "/me.png",
   skills: [
     { name: "React", icon: ReactLight },
@@ -82,6 +81,19 @@ export const DATA = {
 
   work: [
     {
+      company: "Optima Learn",
+      href: "https://www.optimalearn.com/",
+      badges: [],
+      location: "Noida",
+      title: "Full Stack Freelancing Agency",
+      logoUrl: "/optima.png",
+      start: "March 2026",
+      end: "June 2026",
+      status : "Internship",
+      description:
+        "Designed and implemented AI-driven features to scale a CAT-prep platform, focusing on automated content delivery and performance optimization. Leveraged Nest.js and PostgreSQL to build modular, high-traffic systems that enhanced the student learning experience.",
+    },
+    {
       company: "Atoms",
       href: "https://atoms.qzz.io/",
       badges: [],
@@ -92,7 +104,7 @@ export const DATA = {
       end: "January 2026",
       status : "Freelance",
       description:
-        "Implemented the Bitcoin discreet log contract (DLC) protocol specifications as an open source Typescript SDK. Dockerized all microservices and setup production kubernetes cluster. Architected a data lake using AWS S3 and Athena for historical backtesting of bitcoin trading strategies. Built a mobile app using react native and typescript.",
+        "Engineered scalable web applications within a 4-person team, integrating AI-driven development tools to accelerate delivery. Architected high-performance features using the T3 stack, focusing on real-time synchronization and optimized TypeScript codebases.",
     },
   ],
   education: [
